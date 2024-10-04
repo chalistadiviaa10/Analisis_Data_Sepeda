@@ -1,1 +1,4 @@
-http://localhost:8501 
+https://dashboard-sepeda-chalista.streamlit.app/ 
+
+Local URL: http://localhost:8501
+Network URL: http://10.50.69.226:8501
